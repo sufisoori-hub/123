@@ -7,13 +7,12 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "npmClient": "npm"
+      }
     },
     "production": {
       "distribution": "store",
       "android": {
-        "buildType": "app-bundle"
+        "buildType": "apk"
       }
     }
   }

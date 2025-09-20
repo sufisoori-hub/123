@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "sufiyan",
-    "slug": "snake-game",
+    "slug": "sufiyan-rental",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,8 +16,8 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.sufiyan.sufiyan",
-      "versionCode": 1.0,
+      "package": "com.yourname.sufiyan",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"

@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "sufiyan",
-    "slug": "snack-c93c4f78-f432-4d34-92d2-d5bcf700dd79",
+    "slug": "snake-game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +16,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.yourname.sufiyan",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
